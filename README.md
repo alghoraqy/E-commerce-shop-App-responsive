@@ -1,6 +1,6 @@
 # practice_shop_app
 Project Screens
-
+<img align="left" width="100" height="100" src="URL/100/100">
 ![1](https://user-images.githubusercontent.com/88210924/184910903-f95c37bd-d5a7-4d01-89c3-76091ba65358.jpg)
 ![2](https://user-images.githubusercontent.com/88210924/184911136-fdd83016-2c8f-49cf-80d2-4910f15db274.jpg)
 ![3](https://user-images.githubusercontent.com/88210924/184911193-3e552bbf-af8b-4613-be20-356c8068659d.jpg)
